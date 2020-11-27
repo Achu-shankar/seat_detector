@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Data</folder>
+	<filename>Picture1.jpg</filename>
+	<path>E:\ObjectDetection\workspace\training_seat\Training_Set\Version_3\Data\Picture1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>46</width>
+		<height>49</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Seat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>13</ymin>
+			<xmax>32</xmax>
+			<ymax>37</ymax>
+		</bndbox>
+	</object>
+</annotation>
